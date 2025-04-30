@@ -18,7 +18,7 @@
         opacity:.66
     }
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix discord.gg/ronix by Ronix Team */
 .info__2debe::after{
     content:"Ronix" " " "Theme";
     color:var(--text-muted);
@@ -38,7 +38,7 @@
     filter:drop-shadow(0 0 5px var(--hsl-main-color))
 }
 .visual-refresh:not(.platform-osx) .leading_c38106::after{
-    content:"0.1.1";
+    content:"discord.gg/ronix";
     position:static;
     margin-top:-5px;
     margin-left:5px;
@@ -48,11 +48,11 @@
     color:var(--text-muted);
     order:3
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix discord.gg/ronix by Ronix Team */
 html{
     --__i18n-attachment: "More"
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .app_a3002d{
     color:rgba(0,0,0,0)
 }
@@ -62,7 +62,7 @@ html{
 .sidebar_c48ade[data-collapsed=true] .avatarWrapper__37e49{
     justify-content:center
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .button__201d5{
     border-radius:4px
 }
@@ -139,7 +139,7 @@ html{
 .lookLink__201d5.colorBrand__201d5{
     color:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .checkbox_f525d3{
     border-radius:4px
 }
@@ -147,7 +147,7 @@ html{
     border-color:var(--hsl-main-color);
     background-color:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .input__0f084{
     background-color:var(--hsl-input-shading);
     border:none;
@@ -178,7 +178,7 @@ html{
     background-color:rgba(0,0,0,0);
     box-shadow:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .item__001a7[aria-checked=true]{
     background-color:rgba(0,0,0,0)
 }
@@ -208,7 +208,7 @@ html{
 .item__001a7[aria-checked=true] .radioBar__001a7{
     background-color:var(--radio-bar-accent-color, var(--hsl-main-color))
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .slider_a562c8 .bar_a562c8,.slider_a562c8 .markDash_a562c8{
     background:var(--hsl-card-shading)
 }
@@ -218,7 +218,7 @@ html{
 .slider_a562c8 .grabber_a562c8{
     filter:drop-shadow(0 0 3px var(--hsl-main-color))
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .container__87bf1{
     background:hsl(from var(--interactive-normal) h s l/0.1) !important
 }
@@ -228,7 +228,7 @@ html{
 .container__87bf1.checked__87bf1 path{
     fill:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .top_b3f026 .item_b3f026{
     --selected-tab-item-color: var(--hsl-hover-color)
 }
@@ -265,7 +265,7 @@ html{
     background:linear-gradient(to right, var(--hsl-main-color) 50%, transparent);
     margin-left:5px
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh :is(html,body,.appMount__51fd7){
     background:none
 }
@@ -287,7 +287,7 @@ html{
 .path__0b5bb{
     stroke:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 ::-moz-placeholder{
     font-family:var(--main-font)
 }
@@ -305,7 +305,7 @@ code{
     background:var(--hsl-main-color);
     color:var(--text-normal)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .bar_c38106{
     background-color:rgba(0,0,0,0);
     padding-left:0
@@ -314,7 +314,7 @@ code{
     gap:0;
     margin:0 6px
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .notice__6e2b9{
     border-radius:4px;
     background:hsl(from var(--custom-notice-background, var(--hsl-main-color)) h s l/0.8)
@@ -328,7 +328,7 @@ code{
 .colorStreamerMode__6e2b9{
     --custom-notice-background: var(--hsl-streaming-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 :is(.auto__99f8c,.auto_d125d2)::-webkit-scrollbar{
     width:14px
 }
@@ -352,14 +352,14 @@ code{
 :is(:is(.auto__99f8c,.auto_d125d2),:is(.thin__99f8c,.thin_d125d2))::-webkit-scrollbar-thumb:active{
     background-color:var(--hsl-hover-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .mediaBarProgress_b26b79,.mediaBarProgress_b26b79::before,.mediaBarProgress_b26b79::after{
     background:var(--hsl-main-color)
 }
 .mediaBarGrabber_b26b79,.mediaBarInteraction_b26b79:hover .mediaBarGrabber_b26b79,.mediaBarInteractionDragging_b26b79 .mediaBarGrabber_b26b79{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .authBox__921c5{
     background-color:var(--hsl-popout-shading)
 }
@@ -369,7 +369,7 @@ code{
 .navRow__86e92{
     background-color:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .chat_f75fb0{
     background:rgba(0,0,0,0)
 }
@@ -399,7 +399,7 @@ code{
 .noChannel__01d5c{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.4))
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .form_f75fb0{
     margin-top:4px
 }
@@ -440,7 +440,7 @@ code{
 .toolbar_bba883::before{
     border-top-color:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .wrapper_cb9592,.visual-refresh .channelChatWrapper_cb9592{
     background:rgba(0,0,0,0)
 }
@@ -457,7 +457,7 @@ code{
 .quickSelectPopout_ebaca5{
     background:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .divider__908e2{
     --divider-color: var(--hsl-main-color)
 }
@@ -486,7 +486,7 @@ code{
 .isUnread__908e2 .content__908e2::before,.isUnread__908e2 .content__908e2::after{
     background:var(--divider-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .avatar_c19a55{
     transition:all .3s ease-in-out,transform .1s ease-in-out
 }
@@ -662,7 +662,7 @@ code{
 .hoverButton__06ab4.selected__06ab4,.hoverButton__06ab4:hover{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container_f369db{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.3))
 }
@@ -760,7 +760,7 @@ code{
     background:var(--hsl-card-shading);
     animation:cv-card-loading 1.5s infinite ease-in-out
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .resizeHandle__01ae2{
     background:rgba(0,0,0,0)
 }
@@ -795,7 +795,7 @@ code{
 .chatHeaderBar_a5700d{
     background-color:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .newMessagesBar__0f481{
     top:4px;
     right:8px;
@@ -821,7 +821,7 @@ code{
     background:var(--hsl-popout-shading);
     border:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .reactions__23977{
     border-radius:4px
 }
@@ -841,7 +841,7 @@ code{
 .burstGlow__23977{
     border-radius:4px
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .searchResultsWrap_a9e706{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.3));
     border:none
@@ -860,7 +860,7 @@ code{
     background:var(--hsl-hover-color);
     color:var(--interactive-active)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 :is(.theme-dark,.theme-light) .themed__9293f{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.5))
 }
@@ -893,7 +893,7 @@ code{
     border-top-left-radius:0;
     border-bottom-left-radius:0
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container_c8ffbb{
     background:none;
     border:none
@@ -1034,7 +1034,7 @@ code{
     background:var(--hsl-main-color);
     border:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix discord.gg/ronix by Ronix Team */
 .visual-refresh .root__49fc1{
     background:var(--hsl-popout-shading);
     border:none;
@@ -1043,7 +1043,7 @@ code{
 .header__49fc1,.content__49fc1,.footer__49fc1{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix discord.gg/ronix by Ronix Team */
 .container_eb2cd2{
     border:2px solid rgba(0,0,0,0);
     background:var(--background-modifier-accent)
@@ -1062,7 +1062,7 @@ code{
     border-color:var(--hsl-hover-color);
     background:var(--background-modifier-accent)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .keyboardShortcutsModal_f061f6,.keybindGroup_f061f6{
     background:var(--hsl-popout-shading)
 }
@@ -1074,7 +1074,7 @@ code{
     border-color:var(--hsl-main-color);
     box-shadow:inset 0 -2px var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .quickswitcher_ac6cb0{
     background:var(--hsl-popout-shading);
     border:none
@@ -1098,14 +1098,14 @@ code{
 .result__71961[aria-selected=true]{
     background:var(--hsl-hover-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh :is(.scroller_cc2dff,.reactors_cc2dff){
     background:rgba(0,0,0,0)
 }
 .visual-refresh .reactionSelected_cc2dff{
     border:1px solid var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container_a55fdc{
     background:rgba(0,0,0,0)
 }
@@ -1127,7 +1127,7 @@ code{
 .selectorButton_c6d3dc.selectorButtonSelected_c6d3dc::before{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .spinner_ca0af2{
     background:rgba(0,0,0,0)
 }
@@ -1177,14 +1177,14 @@ code{
 .value__96f95,.value__96f95:focus{
     box-shadow:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .uploadDropModal_dbca3c .bgScale_dbca3c{
     background:var(--hsl-main-color)
 }
 .uploadDropModal_dbca3c .inner_dbca3c{
     border-color:var(--header-primary)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .scroller__6fd0e{
     background:rgba(0,0,0,0)
 }
@@ -1201,7 +1201,7 @@ code{
 .innerWrapper_b4589b{
     background:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by ClearVision Team */
+/*! Ronix vdiscord.gg/ronix by ClearVision Team */
 .visual-refresh .header__0b563{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.5)) !important
 }
@@ -1266,7 +1266,7 @@ code{
 .emptyPage__5d7c9{
     background-color:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container__551b0{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.25))
 }
@@ -1353,7 +1353,7 @@ code{
 .visual-refresh .modalContent_de2fa0,.visual-refresh .contentHeader_de2fa0{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container__133bf{
     background:none;
     border:none
@@ -1446,7 +1446,7 @@ code{
 .emptyCard__7e549{
     background-color:var(--hsl-card-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .page_c791b2{
     background:rgba(0,0,0,0) !important
 }
@@ -1460,11 +1460,11 @@ code{
 .newMembersNotice_acdcc0:hover{
     background:var(--hsl-hover-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .list_f391e3{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.4))
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .applicationStore_f07d62{
     background:rgba(0,0,0,0)
 }
@@ -1522,7 +1522,7 @@ code{
 .innerWrapper_c511e4{
     background:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .background__7449f :is(.scrollerBase__99f8c,.scrollerBase_d125d2){
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.4))
 }
@@ -1541,7 +1541,7 @@ code{
 .avatarWrapper__86ab2{
     background:var(--hsl-card-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .shopScroll__6db1d,.pageWrapper__6db1d{
     background:rgba(0,0,0,0)
 }
@@ -1574,11 +1574,11 @@ code{
 .collectibleInfoContainer_c50f62{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .scroller__4a84a,.visual-refresh .scroller_fb04e1{
     background:var(--hsl-card-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .container_a45028{
     background:var(--hsl-input-shading);
     border-color:rgba(0,0,0,0);
@@ -1595,7 +1595,7 @@ code{
 .loadingPopout__58f1c{
     background:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .autocomplete__13533{
     background:var(--hsl-popout-shading);
     box-shadow:none
@@ -1616,7 +1616,7 @@ code{
 .selected__1a58a,.selected__1a58a:hover{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .lookFilled__3f413.select__3f413{
     box-shadow:none
 }
@@ -1659,7 +1659,7 @@ code{
 .optionPillItem__3f413 .optionPillBtn__3f413 .optionPillBtn__3f413{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .recentMentionsPopout__95796{
     background:var(--hsl-popout-shading);
     box-shadow:none
@@ -1711,7 +1711,7 @@ code{
     border:none;
     margin:0
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .menu_c1e9c4{
     background:var(--hsl-popout-shading);
     border:none;
@@ -1771,7 +1771,7 @@ code{
 .focused_d40c56 .activeIcon_d40c56 circle{
     fill:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .tooltipPrimary__382e7{
     background-color:var(--hsl-popout-shading);
     border:none
@@ -1789,7 +1789,7 @@ code{
 .tooltipBrand__382e7 .tooltipPointer__382e7{
     border-top-color:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .contentWrapper__08434{
     background:var(--hsl-popout-shading);
     border:none
@@ -1863,7 +1863,7 @@ code{
 .stickerCategoryGenericSelected__3ad28,.stickerCategoryGenericSelected__3ad28:hover,.firstPartyCategorySelected__3ad28,.firstPartyCategorySelected__3ad28:hover{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .messagesPopoutWrap__45690{
     background:var(--hsl-popout-shading);
     box-shadow:none
@@ -1884,7 +1884,7 @@ code{
     background:var(--hsl-hover-color);
     color:var(--interactive-active)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .container__55c99{
     background:var(--hsl-popout-shading);
     border:none
@@ -1938,7 +1938,7 @@ code{
 :is(.theme-light,.theme-dark) .calendarPicker_d27f17 .react-datepicker__day:is(.react-datepicker__day--disabled,.react-datepicker__day--disabled:hover){
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .browser_d98031{
     background-color:var(--hsl-popout-shading);
     box-shadow:none
@@ -1961,7 +1961,7 @@ code{
 .popout__76f04{
     background-color:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .contentWrapper__9c62c{
     background:var(--hsl-popout-shading);
     box-shadow:none
@@ -2033,7 +2033,7 @@ code{
 .underline__761e5{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh :is(.picker__09f65,.picker__09f65.refresh__09f65){
     background:var(--hsl-popout-shading)
 }
@@ -2049,7 +2049,7 @@ code{
 .visual-refresh :is(.soundButton__9be63,.soundButtonRefresh__9be63):is(:hover,:focus-within,.focused__9be63).hoverActiveBackground__9be63{
     background:var(--hsl-card-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .popoutContainer__0f481{
     background:var(--hsl-popout-shading);
     box-shadow:none;
@@ -2091,7 +2091,7 @@ code{
 .visual-refresh .container_b1bfd4{
     background:var(--background-modifier-accent)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .full-motion .translate_faf9c0{
     transform:unset !important
 }
@@ -2173,7 +2173,7 @@ code{
 .panel_c0bea0.outer_c0bea0:not(.custom-user-profile-theme){
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .outer_c0bea0:not(.custom-user-profile-theme) .role_dfa8b6{
     background:rgba(0,0,0,0);
     border-color:rgba(0,0,0,0);
@@ -2200,7 +2200,7 @@ code{
     background:var(--hsl-popout-shading);
     border:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .mask__44b0c rect[fill*="#82838b"]{
     fill:var(--hsl-offline-color)
 }
@@ -2216,7 +2216,7 @@ code{
 .mask__44b0c rect[fill*="#593695"]{
     fill:var(--hsl-streaming-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .layer__960e4{
     background-color:rgba(0,0,0,0)
 }
@@ -2247,7 +2247,7 @@ code{
 .default_e18686,.default_e18686:hover{
     background-color:var(--hsl-popout-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .standardSidebarView__23e6b{
     background:rgba(0,0,0,0)
 }
@@ -2255,7 +2255,7 @@ code{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.3));
     padding:20px 8px 60px 20px
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .selectedBackground_e681d1{
     background:rgba(0,0,0,0)
 }
@@ -2407,7 +2407,7 @@ code{
 .expandedContainer__9d98d,.groupHeader__9d98d,.groupCollapsedContainer__9d98d,.groupContainer__9d98d{
     background:rgba(0,0,0,0)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .settingCard__1a4ef,.settingCard__1a4ef.active__1a4ef{
     background:var(--hsl-card-shading)
 }
@@ -2447,7 +2447,7 @@ code{
 .allow__344e6.selected__344e6{
     background-color:hsl(from var(--hsl-success-color) h s l/0.6)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .itemSelected_ec9088{
     border:2px solid var(--hsl-main-color)
 }
@@ -2515,7 +2515,7 @@ code{
 .descriptionBox__981f7{
     background:var(--hsl-card-shading)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .panels_c48ade{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.5));
     border-radius:0;
@@ -2551,7 +2551,7 @@ code{
 .contentInteractable__636a2 .submenuIcon__636a2{
     color:var(--interactive-normal)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .guilds_c48ade{
     margin-bottom:var(--custom-app-panels-height);
     background:rgba(0,0,0,0);
@@ -2608,7 +2608,7 @@ code{
 .iconBadge__2b1f5.isCurrentUserConnected__650eb{
     background:var(--hsl-main-color)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .wrapperCommon__29444 .mainContent__29444 .name__29444{
     flex:1
 }
@@ -2663,7 +2663,7 @@ code{
 .icon__29444{
     display:none
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .newChannel__599fa{
     background:var(--hsl-main-color) !important;
     color:var(--header-primary)
@@ -2781,7 +2781,7 @@ code{
 .visual-refresh .total__260e1{
     padding:0 6px 0 1px
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .visual-refresh .privateChannels__35e86{
     background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.25))
 }
@@ -2856,7 +2856,7 @@ code{
 .visual-refresh .interactive__972a0.interactiveSelected__972a0 .text__8ac07{
     color:var(--interactive-active)
 }
-/*! Ronix v0.1.1 by Ronix Team */
+/*! Ronix vdiscord.gg/ronix by Ronix Team */
 .platform-win .sidebar_c48ade{
     border-radius:0
 }
